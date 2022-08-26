@@ -1,3 +1,3 @@
 # Dice role playing game
 
-- check the game [here](dicerolegame.netlify.app)
+- check the game [here](https://dicegame.abughassan.me/)
